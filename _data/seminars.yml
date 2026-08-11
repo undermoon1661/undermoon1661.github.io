@@ -1,4 +1,4 @@
-- Date: '2026-07-23T00:00:00'
+- Date: '2026-08-13T00:00:00'
   Speaker: ''
   Title: ''
   Venue: ''
@@ -8,9 +8,39 @@
   Slide:
     Text: ''
     URL: ''
-- Date: '2026-07-16T00:00:00'
+- Date: '2026-08-13T00:00:00'
+  Speaker: Hanvit Lee
+  Title: Benchmarking & Evaluation
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-08-06T00:00:00'
+  Speaker: Junwoo Jung
+  Title: Agents, Tool Use, and RAG
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-07-23T00:00:00'
   Speaker: Jaehyun Park
-  Title: ''
+  Title: Efficient Adaptation (Prompting + PEFT)
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-07-16T00:00:00'
+  Speaker: Sunuk Kim
+  Title: Post-training (SFT, RLHF, DPO)
   Venue: ''
   Paper:
     Text: ''
@@ -19,8 +49,8 @@
     Text: ''
     URL: ''
 - Date: '2026-07-09T00:00:00'
-  Speaker: Sunuk Kim
-  Title: ''
+  Speaker: Gyuwon Je
+  Title: Pretraining (Scaling, Systems, Data)
   Venue: ''
   Paper:
     Text: ''
@@ -29,18 +59,8 @@
     Text: ''
     URL: ''
 - Date: '2026-07-02T00:00:00'
-  Speaker: Gyuwon Je
-  Title: ''
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-06-25T00:00:00'
   Speaker: Jongyoon Choi
-  Title: ''
+  Title: Transformers & Self-Attention
   Venue: ''
   Paper:
     Text: ''
@@ -49,8 +69,8 @@
     Text: ''
     URL: ''
 - Date: '2026-06-18T00:00:00'
-  Speaker: Junwoo Jung
-  Title: ''
+  Speaker: Jiseung Hyun
+  Title: Language Models & RNNs
   Venue: ''
   Paper:
     Text: ''
@@ -59,8 +79,8 @@
     Text: ''
     URL: ''
 - Date: '2026-06-11T00:00:00'
-  Speaker: Jiseung Hyun
-  Title: ''
+  Speaker: Daewon Gwak
+  Title: Backpropagation and Neural Network Basics
   Venue: ''
   Paper:
     Text: ''
@@ -69,19 +89,9 @@
     Text: ''
     URL: ''
 - Date: '2026-06-04T00:00:00'
-  Speaker: Daewon Gwak
-  Title: ''
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-05-28T00:00:00'
   Speaker: Hanvit Lee
-  Title: ''
-  Venue: ''
+  Title: Word Vectors (word2vec, GloVe)
+  Venue: NLP-Study
   Paper:
     Text: ''
     URL: ''
