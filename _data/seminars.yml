@@ -1,5 +1,45 @@
-- Date: '2026-08-13T00:00:00'
+- Date: '2026-09-17T00:00:00'
   Speaker: ''
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-09-10T00:00:00'
+  Speaker: Junwoo Jung
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-09-03T00:00:00'
+  Speaker: Jaehyun Park
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-08-27T00:00:00'
+  Speaker: Gyuwon Je
+  Title: ''
+  Venue: ''
+  Paper:
+    Text: ''
+    URL: ''
+  Slide:
+    Text: ''
+    URL: ''
+- Date: '2026-08-20T00:00:00'
+  Speaker: Sunuk Kim
   Title: ''
   Venue: ''
   Paper:
@@ -10,94 +50,94 @@
     URL: ''
 - Date: '2026-08-13T00:00:00'
   Speaker: Hanvit Lee
-  Title: Benchmarking & Evaluation
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-08-06T00:00:00'
-  Speaker: Junwoo Jung
-  Title: Agents, Tool Use, and RAG
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-07-23T00:00:00'
-  Speaker: Jaehyun Park
-  Title: Efficient Adaptation (Prompting + PEFT)
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-07-16T00:00:00'
-  Speaker: Sunuk Kim
-  Title: Post-training (SFT, RLHF, DPO)
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-07-09T00:00:00'
-  Speaker: Gyuwon Je
-  Title: Pretraining (Scaling, Systems, Data)
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-07-02T00:00:00'
-  Speaker: Jongyoon Choi
-  Title: Transformers & Self-Attention
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-06-18T00:00:00'
-  Speaker: Jiseung Hyun
-  Title: Language Models & RNNs
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-06-11T00:00:00'
-  Speaker: Daewon Gwak
-  Title: Backpropagation and Neural Network Basics
-  Venue: ''
-  Paper:
-    Text: ''
-    URL: ''
-  Slide:
-    Text: ''
-    URL: ''
-- Date: '2026-06-04T00:00:00'
-  Speaker: Hanvit Lee
-  Title: Word Vectors (word2vec, GloVe)
+  Title: '[NLP-Study] Benchmarking & Evaluation'
   Venue: NLP-Study
   Paper:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
   Slide:
-    Text: ''
-    URL: ''
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-08-06T00:00:00'
+  Speaker: Junwoo Jung
+  Title: '[NLP-Study] Agents, Tool Use, and RAG'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-07-23T00:00:00'
+  Speaker: Jaehyun Park
+  Title: '[NLP-Study] Efficient Adaptation (Prompting + PEFT)'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-07-16T00:00:00'
+  Speaker: Sunuk Kim
+  Title: '[NLP-Study] Post-training (SFT, RLHF, DPO)'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-07-09T00:00:00'
+  Speaker: Gyuwon Je
+  Title: '[NLP-Study] Pretraining (Scaling, Systems, Data)'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-07-02T00:00:00'
+  Speaker: Jongyoon Choi
+  Title: '[NLP-Study] Transformers & Self-Attention'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-06-18T00:00:00'
+  Speaker: Jiseung Hyun
+  Title: '[NLP-Study] Language Models & RNNs'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-06-11T00:00:00'
+  Speaker: Daewon Gwak
+  Title: '[NLP-Study] Backpropagation and Neural Network Basics'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+- Date: '2026-06-04T00:00:00'
+  Speaker: Hanvit Lee
+  Title: '[NLP-Study] Word Vectors (word2vec, GloVe)'
+  Venue: NLP-Study
+  Paper:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
+  Slide:
+    Text: link
+    URL: https://web.stanford.edu/class/cs224n/index.html#coursework
 - Date: '2026-04-30T00:00:00'
   Speaker: Jiseung Hyun
   Title: Signed Proximity Matters in Graph-based Recommendation
